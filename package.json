@@ -1,0 +1,13 @@
+{
+  "name": "intro-component-with-signup-form-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "homepage": "https://glenottley.github.io/intro-component-with-signup-form-master",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
